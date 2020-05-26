@@ -10,7 +10,7 @@
             <h1 class="mb-0">{{ab.firstName}}
               <span class="text-primary">{{ab.lastName}}</span>
             </h1>
-            <div class="subheading mb-5">{{ab.address.city}},{{ab.address.country}}
+            <div class="subheading mb-5">{{ab.address?.city}},{{ab.address.country}}
               <a href="mailto:{{ab.email}}">{{ab.email}}</a>
             </div>
             <p class="lead mb-5">{{ab.objective}}</p>
