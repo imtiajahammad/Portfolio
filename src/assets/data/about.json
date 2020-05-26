@@ -1,0 +1,21 @@
+
+    {
+        "id":1,
+        "firstName":"Imtiaj",
+        "lastName":"Ahammad",
+        "address":{
+            "city":"Dhaka",
+            "country":"Bangladesh"
+        },
+        "email":"imtiajahammad.official@gmail.com",
+        "objective":"I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+        "links":
+        {
+            "linkedIn":"https://www.linkedin.com/in/imtiaj-ahammad-2175a3130/",
+            "gitHub":"https://github.com/imtiajahammad",
+            "twitter":"https://twitter.com/imtiaj__ahammad",
+            "instagram":"https://www.instagram.com/imtiaj_ahammad_",
+            "facebook":"https://www.facebook.com/imtiaj.ahammad.3"
+        }
+    }
+
