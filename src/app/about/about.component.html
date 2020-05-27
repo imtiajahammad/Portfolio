@@ -10,24 +10,24 @@
             <h1 class="mb-0">{{ab.firstName}}
               <span class="text-primary">{{ab.lastName}}</span>
             </h1>
-            <div class="subheading mb-5">{{ab.address?.city}},{{ab.address.country}}
+            <div class="subheading mb-5">{{ab.address?.city}},{{ab.address?.country}}
               <a href="mailto:{{ab.email}}">{{ab.email}}</a>
             </div>
             <p class="lead mb-5">{{ab.objective}}</p>
             <div class="social-icons">
-              <a href="{{ab.links.linkedIn}}">
-                <i class="fab fa-linkedin-in"></i>
+              <a href="{{ab.links?.linkedIn}}">
+                <i class="fab fa-linkedin-in">Linkdin</i>
               </a>
-              <a href="{{ab.links.gitHub}}">
+              <a href="{{ab.links?.gitHub}}">
                 <i class="fab fa-github"></i>
               </a>
-              <a href="{{ab.links.twitter}}">
+              <a href="{{ab.links?.twitter}}">
                 <i class="fab fa-twitter"></i>
               </a>
-              <a href="{{ab.links.instagram}}">
+              <a href="{{ab.links?.instagram}}">
                 <i class="fab fa-instagram"></i>
               </a>
-              <a href="{{ab.links.facebook}}">
+              <a href="{{ab.links?.facebook}}">
                 <i class="fab fa-facebook-f"></i>
               </a>
             </div>

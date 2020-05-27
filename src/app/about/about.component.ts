@@ -18,7 +18,7 @@ export class AboutComponent implements OnInit {
     /*this._aboutService.getAboutInfo()
       .subscribe(data=> this.ab=data);*/
       this._aboutService.getAboutInfo()
-      .subscribe(data => this.ab=data/*console.log(data)*/);
+      .subscribe(data => {this.ab=data; /*console.log(data)*/})
   }
   
   
