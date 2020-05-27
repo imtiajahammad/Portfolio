@@ -1,11 +1,12 @@
 [
 	{
 		"id": 12,
-        "position": "SENIOR WEB DEVELOPER",
-        "company": "INTELITEC SOLUTIONS",
-        "description":"Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.",
-        "startDate": "March 2013",
-        "endDate": "Present"
+        "position": "JUNIOR SOFTWARE ENGINEER",
+        "company": "AZOLVE TECHNOLOGIES BANGLADESH LTD",
+        "description":
+        "        <div class=\"w-100\">\r\n          <div class=\"mb-3\">Azolve is a leading business application provider, working with a wide range of sports governing bodies, membership associations, commercial businesses, government organizations and education providers. &amp; Tools<\/div>\r\n          <ul >\r\n            <li >\r\n              Debug and optimize existing codes & Follow strict coding Standards\r\n            <\/li>\r\n            <li  >\r\n              Writing complex sql queries, building rich UI components with JavaScript (in Azolve's own JS framework: Astral)\r\n            <\/li>\r\n            <li  >\r\n              Writing client side scripts for managing business logic and timely delivery of projects.\r\n            <\/li>\r\n            <li  >\r\n              Working with Azolve's expense, invoicing and process costing\r\n            <\/li>\r\n            <li  >\r\n              Have been working for its promising membership solution <a target=\u201D_blank\u201D href=\"http:\/\/gomembership.com\/\">GoMembershp<\/a>\r\n            <\/li>\r\n          <\/ul>\r\n        <\/div>",
+        "startDate": "JAN 2019",
+        "endDate": "APR 2020"
     },
     {
 		"id": 13,
