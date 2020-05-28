@@ -21,7 +21,7 @@
                   <div class="resume-content">
                     <h3 class="mb-0">{{employee.position}}</h3>
                     <div class="subheading mb-3">{{employee.company}}</div>
-                    <p>{{employee.description}}</p>
+                    <p [innerHTML]="employee.description"></p>
                   </div>
                   <div class="resume-date text-md-right">
                     <span class="text-primary">{{employee.startDate}} - {{employee.endDate}}</span>
@@ -71,7 +71,7 @@
           </div>
     
         </section>
-        <div class="w-100">
+        <!--div class="w-100">
           <div class="mb-3">Azolve is a leading business application provider, working with a wide range of sports governing bodies, membership associations, commercial businesses, government organizations and education providers. &amp; Tools</div>
           <ul >
             <li >
@@ -90,7 +90,7 @@
               Have been working for its promising membership solution <a target=”_blank” href="http://gomembership.com/">GoMembershp</a>
             </li>
           </ul>
-        </div>
+        </div-->
     
     
         <hr class="m-0">
