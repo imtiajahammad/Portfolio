@@ -1,0 +1,29 @@
+[
+    {
+		"id": 31,
+        "name": "Bachelor in Computer Science and Engineering",
+        "faculty":"Computer Science and Engineering",
+        "institution": "DAFFODIL INTERNATIONAL UNIVERSITY",
+        "cgpa":4.61,
+        "startDate": "2014",
+        "endDate": "2018"
+    },
+    {
+		"id": 33,
+        "name": "Higher Secondary School Certificate",
+        "faculty":"Science",
+        "institution": "Dhaka City College, Dhaka, Bangladesh",
+        "cgpa":4.3,
+        "startDate": "2011",
+        "endDate": "2013"
+    },
+    {
+		"id": 34,
+        "name": "Secondary School Certificate",
+        "faculty":"Science",
+        "institution": "B.C.S.I.R High School, Dhaka, Bangladesh",
+        "cgpa":5.0,
+        "startDate": "2009",
+        "endDate": "2011"
+    }
+]
