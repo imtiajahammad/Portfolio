@@ -21,7 +21,12 @@
                   <div class="resume-content">
                     <h3 class="mb-0">{{employee.position}}</h3>
                     <div class="subheading mb-3">{{employee.company}}</div>
-                    <p [innerHTML]="employee.description"></p>
+                    <div *ngIf="employee.description">
+                      <p>{{employee.description.about}}</p>
+                      <ul *ngFor="let aa of employee.description.points">
+                        <li [innerHTML]="aa"></li>
+                      </ul>
+                    </div>
                   </div>
                   <div class="resume-date text-md-right">
                     <span class="text-primary">{{employee.startDate}} - {{employee.endDate}}</span>

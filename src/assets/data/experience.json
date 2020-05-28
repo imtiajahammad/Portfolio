@@ -1,10 +1,18 @@
 [
-	{
-		"id": 12,
+    {
+		"id": 1,
         "position": "JUNIOR SOFTWARE ENGINEER",
         "company": "AZOLVE TECHNOLOGIES BANGLADESH LTD",
         "description":
-        "<div class=\"w-100\">\r\n            <div class=\"mb-3\">Azolve is a leading business application provider, working with a wide range of sports governing bodies, membership associations, commercial businesses, government organizations and education providers. <\/div>\r\n          <ul >\r\n                                <li >\r\n              Debug and optimize existing codes & Follow strict coding Standards\r\n            <\/li>\r\n                                <li  >\r\n              Writing complex sql queries, building rich UI components with JavaScript (in Azolve's own JS framework: Astral)\r\n            <\/li>\r\n                                <li  >\r\n              Writing client side scripts for managing business logic and timely delivery of projects.\r\n            <\/li>\r\n                                <li  >\r\n              Working with Azolve's expense, invoicing and process costing\r\n            <\/li>\r\n                                <li  >\r\n              Have been working for its promising membership solution <a target=\u201D_blank\u201D href=\"http:\/\/gomembership.com\/\">GoMembershp<\/a>\r\n            <\/li>\r\n                          <\/ul>\r\n         <\/div>",
+            {
+            "about":"Azolve is a leading business application provider, working with a wide range of sports governing bodies, membership associations, commercial businesses, government organizations and education providers.",
+            "points":[  "Debug and optimize existing codes & Follow strict coding Standards",
+                        "Writing complex sql queries, building rich UI components with JavaScript (in Azolve's own JS framework: Astral)",
+                        "Writing client side scripts for managing business logic and timely delivery of projects.",
+                        "Working with Azolve's expense, invoicing and process costing",
+                        "Have been working for its promising membership solution <a target=\u201D_blank\u201D href=\"http:\/\/gomembership.com\/\">GoMembershp</a>"
+                    ]
+            },
         "startDate": "JAN 2019",
         "endDate": "APR 2020"
     },
@@ -12,7 +20,16 @@
 		"id": 13,
         "position": "GOOGLE MSITE CERTIFICATION CO-ORDINATOR",
         "company": "GOOGLE DEVELOPER GROUP SONARGAON",
-        "description":        "        <div class=\"w-100\">\r\n          <div class=\"mb-3\">I had been the lead coordinator for the project. It is a workshop which includes a certification examination. The workshop had been designed for the web developers.<\/div>\r\n          <ul >\r\n            <li >\r\n              Engaging with users to build Developer relationships with the community and encourage engagement\r\n\r\n            <\/li>\r\n            <li  >\r\n              Communications with developers & Googlers\r\n\r\n            <\/li>\r\n            <li  >\r\n              Organize Problem oriented Events with Google technology that solve local problems for Bangladeshi community\t\r\n\r\n            <\/li>\r\n            <li  >\r\n              Conduct code Labs and trainings\r\n            <\/li>\r\n          <\/ul>\r\n        <\/div>",
+        "description":
+        {
+        "about":"I had been the lead coordinator for the project. It is a workshop which includes a certification examination. The workshop had been designed for the web developers.",
+        "points":[  "Engaging with users to build Developer relationships with the community and encourage engagement",
+                    "Communications with developers & Googlers",
+                    "Organize Problem oriented Events with Google technology that solve local problems for Bangladeshi community.",
+                    "Conduct code Labs and trainings",
+                    "Have been working for its promising membership solution <a target=\u201D_blank\u201D href=\"http:\/\/gomembership.com\/\">GoMembershp</a>"
+                ]
+        },
         "startDate": "NOV 2017",
         "endDate": "PRESENT"
     },
@@ -20,7 +37,14 @@
 		"id": 14,
         "position": "ASP.NET TRAINER",
         "company": "DAFFODIL INTERNATIONAL UNIVERSITY",
-        "description":        "        <div class=\"w-100\">\r\n          <div class=\"mb-3\">\r\n          It is a training program launched by Daffodil International University for their students. I had been the lead trainer for one session. \r\n          <\/div>\r\n          <ul >\r\n            <li >\r\nConduct classes for the trainees\r\n            <\/li>\r\n            <li  >\r\nManage training related plans and programs\r\n            <\/li>\r\n            <li  >\r\nEngaging with trainees with their projects\r\n            <\/li>\r\n          <\/ul>\r\n        <\/div>",
+        "description":
+        {
+        "about":"It is a training program launched by Daffodil International University for their students. I had been the lead trainer for one session.",
+        "points":[  "Conduct classes for the trainees",
+                    "Manage training related plans and programs",
+                    "Engaging with trainees with their projects"
+                ]
+        },
         "startDate": "APR 2017",
         "endDate": "AUG 2017"
     },
@@ -28,8 +52,13 @@
 		"id": 15,
         "position": "TEACHER ASSISTANT",
         "company": "DAFFODIL INTERNATIONAL UNIVERSITY",
-        "description":        "        <div class=\"w-100\">\r\n          <div class=\"mb-3\">\r\n          To help leading the course on \u201CObject Oriented Programming\u201D and \u201CWireless Programming\u201D with the teacher assigned to the course.\r\n          <\/div>\r\n          <ul >\r\n            <li >\r\nHelping teachers on classes and labs.\r\n\r\n            <\/li>\r\n            <li  >\r\nTo take classes and labs in absence of the teacher\r\n            <\/li>\r\n          <\/ul>\r\n        <\/div>",
-        "startDate": "MAY 2017",
+        "description":
+        {
+        "about":"To help leading the course on \u201CObject Oriented Programming\u201D and \u201CWireless Programming\u201D with the teacher assigned to the course.",
+        "points":[  "Helping teachers on classes and labs.",
+                    "To take classes and labs in absence of the teacher"
+                ]
+        },"startDate": "MAY 2017",
         "endDate": "DEC 2017"
     }
 ]
