@@ -1,0 +1,30 @@
+[
+    {
+		"id": 21,
+        "description":"Google Analytics Certified Developer"
+    },
+    {
+		"id": 22,
+        "description":"Mobile Web Specialist - Google Certification"
+    },
+    {
+		"id": 23,
+        "description":"1<sup>st</sup> Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>"
+    },
+    {
+		"id": 24,
+        "description":"1<sup>st</sup>        Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>"
+    },
+    {
+		"id": 25,
+        "description":"2<sup>nd</sup>        Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>"
+    },
+    {
+		"id": 26,
+        "description":"1<sup>st</sup>        Place - James Buchanan High School - Hackathon 2006</li>"
+    },
+    {
+		"id": 27,
+        "description":"3<sup>rd</sup>        Place - James Buchanan High School - Hackathon 2005</li>"
+    }
+]

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AwardsService } from '../awards.service';
 
 @Component({
   selector: 'app-awards',
@@ -7,9 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AwardsComponent implements OnInit {
 
-  constructor() { }
-
+  constructor(private _awardsService:AwardsService) { }
+  public ab=[];
   ngOnInit(): void {
+    this._awardsService.getAwardsInfo()
+    .subscribe(data=> this.ab=data);
   }
 
 }
