@@ -1,0 +1,66 @@
+[
+    {
+		"id": 91,
+        "title": "Languages",
+        "points":
+                [
+                        "C",
+                        "C#",
+                        "Java",
+                        "JavaScript",
+                        "TypeScript"
+                ]
+    },
+    {
+		"id": 92,
+        "title": "Frameworks and Libraries",
+        "points":
+                [
+                        "Bootstrap",
+                        "JQuery",
+                        "AJAX",
+                        "Angular"
+                ]
+    },
+    {
+		"id": 93,
+        "title": "Technology",
+        "points":
+                [
+                        "ASPX",
+                        "Asp.net MVC",
+                        "Ado.net",
+                        "Web API"
+                ]
+    },
+    {
+		"id": 94,
+        "title": "Database Server",
+        "points":
+                [
+                        "Microsoft SQL",
+                        "MySQL"
+                ]
+    },
+    {
+		"id": 95,
+        "title": "Tools",
+        "points":
+                [
+                        "Report Builder 3",
+                        "Postman",
+                        "Git"
+                ]
+    },
+    {
+		"id": 96,
+        "title": "Operating System",
+        "points":
+                [
+                        "Windows 8.1",
+                        "Windows 10",
+                        "Ubuntu 14.10"
+                ]
+    }
+
+]
